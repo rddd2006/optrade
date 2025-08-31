@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env*.local
+
+# Foundry
+contracts/cache/
+contracts/out/
+contracts/broadcast/
+
+# Frontend Next.js
+frontend/.next/
+frontend/out/
+
+# Docker
+postgres_data/
